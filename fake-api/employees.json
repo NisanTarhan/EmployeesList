@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Nisan Ercan Tarhan",
+      "department": "JavaScript Developer",
+      "salary": 5000,
+      "id": 1
+    },
+    {
+      "name": "Ekin Kahraman",
+      "department": "PHP Developer",
+      "salary": 5000,
+      "id": 2
+    },
+    {
+      "name": "Pınar Kahraman",
+      "department": "İnsan Kaynakları",
+      "salary": 6000,
+      "id": 3
+    },
+    {
+      "name": "Ali Cemre Tarhan",
+      "department": "Bilişim",
+      "salary": 4000,
+      "id": 4
+    }
+  ]
+}
